@@ -6,4 +6,8 @@
     <RootNamespace>I4SWT_Group21_DoorControl</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="XunitXml.TestLogger" Version="3.0.62" />
+  </ItemGroup>
+
 </Project>
